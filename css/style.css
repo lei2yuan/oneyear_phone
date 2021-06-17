@@ -17,8 +17,8 @@ h1{
   	position: absolute;
 	font-size:45px;
 	text-align: right;
-  	/*font-family: "华文行楷";*/
-  	/*left: 0%;*/
+  	font-family: "宋体";
+  	left: 1%;
   	top: 5%;
 	text-shadow;
 }
