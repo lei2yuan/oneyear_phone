@@ -15,11 +15,11 @@ html{
 
 h1{
   	position: absolute;
-	font-size:15px;
+	font-size:20px;
 	text-align: right;
   	font-family: "楷体";
-  	left: 10%;
-  	top: 25%;
+  	left: 15%;
+  	top: 15%;
 	text-shadow;
 }
 
